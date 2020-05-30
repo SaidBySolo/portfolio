@@ -25,7 +25,6 @@ export const Banner00DataSource = {
       </span>
     ),
   },
-  button: { className: 'banner0-button', children: 'Learn More' },
 };
 export const Feature10DataSource = {
   wrapper: {

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from 'antd';
 import { DownOutlined } from '@ant-design/icons';
 import QueueAnim from 'rc-queue-anim';
 import TweenOne from 'rc-tween-one';
@@ -30,9 +29,6 @@ class Banner extends React.PureComponent {
           <div key="content" {...dataSource.content}>
             {dataSource.content.children}
           </div>
-          <Button ghost key="button" {...dataSource.button}>
-            {dataSource.button.children}
-          </Button>
         </QueueAnim>
         <TweenOne
           animation={{
