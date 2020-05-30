@@ -68,7 +68,7 @@ export const Feature10DataSource = {
             </p>
             <p>대한민국 인천에 서식하고 있어요.</p>
             <p>현재 인천기계공업고등학교 전기과를 재학중이지만,</p>
-            <p>따라는 자격증은 안따고 파이썬만 끄젹이고 있는 학생이에요</p>
+            <p>따라는 자격증은 안따고 파이썬만 끄적이고 있는 학생이에요</p>
           </span>
         </span>
       </span>
@@ -88,7 +88,7 @@ export const Content00DataSource = {
         name: 'title',
         children: (
           <span>
-            <p>할수있는것들!</p>
+            <p>한번이라도 만져본 언어들</p>
           </span>
         ),
         className: 'kati5vvomyg-editor_css',
@@ -493,7 +493,7 @@ export const Footer10DataSource = {
               name: 'link~katln4uzqwu',
               children: (
                 <span>
-                  <p>Ant Desgin Landing</p>
+                  <p>Ant Design Landing</p>
                 </span>
               ),
             },
@@ -519,7 +519,7 @@ export const Footer10DataSource = {
         title: {
           children: (
             <span>
-              <p>Imege link</p>
+              <p>Image link</p>
             </span>
           ),
         },
