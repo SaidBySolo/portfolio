@@ -5,12 +5,9 @@ import { enquireScreen } from 'enquire-js';
 
 import Banner0 from './Banner0';
 import Content0 from './Content0';
-import Footer0 from './Footer0';
-
 import {
   Banner00DataSource,
   Content00DataSource,
-  Footer00DataSource,
 } from './data.source';
 import './less/antMotionStyle.less';
 
