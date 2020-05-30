@@ -8,8 +8,8 @@ export const Banner00DataSource = {
       <span>
         <span>
           <span>
-            <p>코딩을 잘 못하지만</p>
-            <p>저는 노력합니다.</p>
+            <p>코딩을 잘하지는 못하지만</p>
+            <p>저는 계속 노력합니다.</p>
           </span>
         </span>
       </span>
